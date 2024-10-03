@@ -22,7 +22,7 @@ The second set of experiments took place in the afternoon after subjects had ful
 
 ## 🗝️ Access and Usage
 **This dataset is built for academic use. Any commercial usage is banned.**   
-To access the dataset, you are supposed to download this [data release agreement](https://github.com/McJackTang/MMPD_rPPG_dataset/blob/main/MMPD_Release_Agreement.pdf).  
+To access the dataset, you are supposed to download this [data release agreement](https://github.com/thuhci/SUMS/main/SUMS_Release_Agreement.pdf).  
 Please scan and dispatch the completed agreement via your institutional email to <tjk24@mails.tsinghua.edu.cn> and cc <yuntaowang@tsinghua.edu.cn>. The email should have the subject line 'SUMS Access Request -  your institution.' In the email,  outline your institution's website and publications for seeking access to the SMUS, including its intended application in your specific research project. The email should be sent by a faculty rather than a student.   
 
 ## Citation  
