@@ -29,13 +29,10 @@ Please scan and dispatch the completed agreement via your institutional email to
 Title: [Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes](https://arxiv.org/abs/2409.19223)  
 Ke Liu*, Jiankai Tang*(*Co-first Author), Zhang Jiang, Yuntao Wang, Xiaojing Liu, Dong Li, Yuanchun Shi, "Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes", IEEE UIC, 2024  
 ```
-@misc{liu2024summitvitalsmulticameramultisignal,
-      title={Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes}, 
-      author={Ke Liu and Jiankai Tang and Zhang Jiang and Yuntao Wang and Xiaojing Liu and Dong Li and Yuanchun Shi},
-      year={2024},
-      eprint={2409.19223},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2409.19223}, 
+@inproceedings{liu2024summit,
+  title={Summit Vitals: Multi-Camera and Multi-Signal Biosensing at High Altitudes},
+  author={Liu, Ke and Tang, Jiankai and Jiang, Zhang and Wang, Yuntao and Liu, Xiaojing and Li, Dong and Shi, Yuanchun},
+  booktitle={The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)},
+  year={2024}
 }
 ```
